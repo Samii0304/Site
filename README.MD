@@ -4,17 +4,28 @@ A arte moderna é um período artístico, que floresceu da segunda metade do sé
 
 ## Recursos da arte
 Principais características e recursos: 
-Rompimento com o tradicionalismo.
-Experimentação.
+Rompimento com o tradicionalismo. 
+
+Experimentação
+
 Liberdade de expressão.
+
 Aproximação da linguagem popular.
+
 Crítica social e urbana.
+
 Vanguardas artísticas que influenciaram a Arte Moderna: 
+
 Cubismo.
+
 Expressionismo.
+
 Surrealismo.
+
 Dadaísmo.
+
 Futurismo.
+
 ## Tecnologias utilizadas
 - Bootstrap
 - ScrollRevealjs
